@@ -1,0 +1,2 @@
+install python3:
+install django: pip3 install Django
